@@ -1,3 +1,3 @@
 # Trackmania Furs Website
 
-A landing page for the **Trackmania Furs** community. Currently just a redirection to the *Discord* server.
+A landing page for the **Trackmania Furs** community. *Hugo* SSG will be used in the future.
