@@ -1,0 +1,129 @@
+body {
+    font-family: 'Nunito', sans-serif !important;
+    color: #f9f9f9;
+}
+
+.post-holder {
+    background-color: #1AC8ED;
+}
+
+.post-holder.odd {
+    background-color: #b8336a;
+}
+
+.blog-description {
+    text-shadow: 0 2px 5px black;
+}
+
+.blog-description, a.btn, .fixed-nav {
+    font-family: unset;
+}
+
+.blog-description, .fixed-nav {
+    font-weight: 900;
+}
+
+.fixed-nav {
+    background-color: transparent;
+}
+
+#site-head {
+    background-image: url("../images/general/overlay.webp"), url("../images/general/background.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#site-head, a.btn {
+    background-color: #1AC8ED;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+a, a.fn-item.active {
+    text-decoration: underline;
+    color: #f9f9f9
+}
+
+a:hover, a.fn-item:hover {
+    color: #f9f9f9;
+    opacity: initial;
+}
+
+a.btn:hover {
+    background-color: #0d819c;
+}
+
+#blog-logo {
+    margin: 0 10%;
+}
+
+#blog-logo img {
+    max-width: 100%;
+    max-height: 200px;
+    filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.5));
+}
+
+details summary { 
+    cursor: pointer;
+}
+  
+details summary > * {
+    display: inline;
+}
+
+summary::-webkit-details-marker {
+    display: none;
+}
+
+details {
+    border: thin solid rgba(255, 255, 255, 0.25);
+    border-radius: 10px;
+}
+
+summary:before {
+    content: "+"; 
+    color: #fff; 
+    float: left; 
+    font-weight: bold;
+    padding: 0; 
+    text-align: center; 
+    width: 20px;
+}
+
+details[open] summary:before {
+    content: "-";
+}
+
+details[open] summary {
+    margin-bottom: 10px;
+}
+
+.activity-overlay:nth-child(2) {
+    mask-image: url("../images/general/activity_overlay.svg");
+    mask-size: contain;
+    mask-position: center;
+    margin-bottom: 10px;
+}
+
+.thumbnail-overlay:nth-child(2) {
+    max-width: 50%;
+    margin: 0 auto;
+    mask-image: url("../images/general/thumbnail_overlay.svg");
+    mask-size: contain;
+    mask-position: center;
+    margin-bottom: 10px;
+}
+
+.advertisement-overlay:nth-child(2) {
+    max-width: 75%;
+    margin: 0 auto;
+    border-radius: 45px 0 45px 0;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.pack {
+    margin: 10px;
+}

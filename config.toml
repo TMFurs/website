@@ -1,0 +1,15 @@
+baseURL = "https://furs.trackmania.xyz/"
+languageCode = "en-us"
+title = "Trackmania Furs"
+theme = "hugo-scroll"
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+[params]
+    copyright = "[Trackmania Furs](https://gitlab.com/TMFurs) © CC-BY-4.0"
+    credits = "Website *(v0.2)* developed by [DergnNamedSkye](https://oshiro.xyz)"
+    description = "Website dedicated to \"Trackmania Furs\" community"
+    favicon = "images/favicon.webp"
+    images = ["images/cover.webp"]
+    title = "Trackmania Furs — Furry Community in Trackmania"
+    [params.meta]
+        keywords = "gaming, racing, arcade, trackmania, club, furry"
