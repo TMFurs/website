@@ -9,7 +9,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
     credits = "Website *(v0.2)* developed by [DergnNamedSkye](https://oshiro.xyz)"
     description = "Website dedicated to \"Trackmania Furs\" community"
     favicon = "images/favicon.webp"
-    images = ["images/cover.webp"]
+    images = ["images/cover.jpg"]
     title = "Trackmania Furs — Furry Community in Trackmania"
     [params.meta]
         keywords = "gaming, racing, arcade, trackmania, club, furry"
