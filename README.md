@@ -1,3 +1,5 @@
 # Trackmania Furs Website
 
-A landing page for the **Trackmania Furs** community. *Hugo* SSG will be used in the future.
+Fully structured website with community resources for **Trackmania Furs** club.
+
+Based on [https://gohugo.io/](Hugo) static site generator.
