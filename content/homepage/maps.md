@@ -8,7 +8,7 @@ You can find all our maps in the *Club* under **Maps** and **Campaign** activiti
 We also have official campaigns which you can check below.
 
 {{< spoiler "TMF Campaign">}}
-    {{< figure src="https://gitlab.com/TMFurs/resources/-/raw/master/trackmania/maps/Stadium/TMF_Campaign/media/activity.png" class="activity-overlay" alt="TMF Campaign Banner" link="https://trackmania.exchange/mappack/view/625/tmf-campaign">}}
+    {{< figure src="https://gitlab.com/TMFurs/resources/-/raw/master/trackmania/maps/Stadium/TMF_Campaign/media/activity.png" class="activity-overlay" alt="TMF Campaign Banner" link="https://trackmania.exchange/mappack/view/625">}}
     {{< pack >}}
 ### TMF Campaign
 **Campaign by:**
@@ -23,5 +23,27 @@ We also have official campaigns which you can check below.
 - WalkingLynx
 
 First official "Trackmania Furs" campaign under the "TMF" branding.
+    {{< /pack >}}
+{{< /spoiler >}}
+
+{{< spoiler "Winter 2021 Campaign">}}
+    {{< figure src="https://gitlab.com/TMFurs/resources/-/raw/master/trackmania/maps/Stadium/Winter2021_Campaign/media/activity.png" class="activity-overlay" alt="Winter2021 Campaign Banner" link="https://trackmania.exchange/mappack/view/1139">}}
+    {{< pack >}}
+### Winter 2021 Campaign
+**Campaign by:**
+- ArgonMarten
+- Arkes
+- Clearwater
+- Deska
+- Gyrule
+- Odin
+- Patryk1023
+- RaceFox
+- RaviFennec
+- SimonLuck31
+- Timmy
+- Viiru
+
+Second official "Trackmania Furs" campaign dedicated to Winter season.
     {{< /pack >}}
 {{< /spoiler >}}

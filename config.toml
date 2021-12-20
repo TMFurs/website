@@ -6,7 +6,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
 [params]
     copyright = "[Trackmania Furs](https://gitlab.com/TMFurs) © CC-BY-4.0"
-    credits = "Website *(v0.2)* developed by [DergnNamedSkye](https://oshiro.xyz)"
+    credits = "Website developed by [DergnNamedSkye](https://oshiro.xyz)"
     description = "Website dedicated to \"Trackmania Furs\" community"
     favicon = "images/favicon.webp"
     images = ["images/general/cover.jpg"]
