@@ -1,5 +1,5 @@
 # Trackmania Furs Website
 
-Fully structured website with community resources for **Trackmania Furs** club.
+Fully structured [website](https://furs.trackmania.xyz) with community resources for **Trackmania Furs** club.
 
-Based on [Hugo](https://gohugo.io/) static site generator.
+Based on [Hugo](https://gohugo.io) static site generator.
