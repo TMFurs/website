@@ -53,18 +53,19 @@ Second official "Trackmania Furs" campaign dedicated to Winter season.
     {{< pack >}}
 ### Winter 2022 Campaign
 **Campaign by:**
+- Arkes
 - Deska
-- Viiru
 - Gyrule_
-- RaceFox
-- MarpleMarten
-- Patryk1023
-- Timmy
-- RaviFennec
-- Kvikk
-- SimonLuck31
 - ieva
 - Ikewolf
+- Kvikk
+- MarpleMarten
+- Patryk1023
+- RaceFox
+- RaviFennec
+- SimonLuck31
+- Timmy
+- Viiru
 
 Third official "Trackmania Furs" campaign dedicated to Winter season.
     {{< /pack >}}
