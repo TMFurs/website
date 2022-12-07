@@ -47,3 +47,25 @@ First official "Trackmania Furs" campaign under the "TMF" branding.
 Second official "Trackmania Furs" campaign dedicated to Winter season.
     {{< /pack >}}
 {{< /spoiler >}}
+
+{{< spoiler "Winter 2022 Campaign">}}
+    {{< figure src="https://gitlab.com/TMFurs/resources/-/raw/master/trackmania/maps/Stadium/Winter2022_Campaign/media/activity.png" class="activity-overlay" alt="Winter2022 Campaign Banner" link="https://trackmania.exchange/mappack/view/1989">}}
+    {{< pack >}}
+### Winter 2022 Campaign
+**Campaign by:**
+- Deska
+- Viiru
+- Gyrule_
+- RaceFox
+- MarpleMarten
+- Patryk1023
+- Timmy
+- RaviFennec
+- Kvikk
+- SimonLuck31
+- ieva
+- Ikewolf
+
+Third official "Trackmania Furs" campaign dedicated to Winter season.
+    {{< /pack >}}
+{{< /spoiler >}}
